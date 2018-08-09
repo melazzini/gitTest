@@ -1,0 +1,37 @@
+	1. La velocidad de la luz:
+		l: c
+		v: 299792458.0
+		u: metros^1, segundos^-1
+	
+	2. La masa del electron:
+		l: m_e
+		v: 0.911*10E-27
+		u: gramos
+
+	3. La masa del proton:
+		l: m_p
+		v: 1.673*10E-24
+		u: gramos
+	
+ 	4. Cociente de las masas del electron y proton:
+		l: m_p/m_e
+		v: 1836
+		u: adim
+	
+	5. La constante de Boltzman:
+		l: k_b
+		v: 1.381*10E-13
+		u: gramos, centimetros^2, segundos^-2
+	
+ 	6. La constante de gravitacion universal:
+		l: G
+		v: 6.67*10E-11
+		u: metros^3, kilogramos^-1, segundos^-2
+		
+	7. La carga del electron:
+		l: e
+		v: 1.602189246*10E-19
+		u: coulomb
+		 
+
+	
