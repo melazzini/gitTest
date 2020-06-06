@@ -76,6 +76,8 @@ void foo(T a)
 |-------                |-----------------|---------|
 |francisco melazzini    |francisco@mail.ru|  29     |
 |mateo melazzini        |mateo@mail.ru    |  6      |
+|pablo melazzini        |mateo@mail.ru    |  6      |
+|fernando melazzini     |mateo@mail.ru    |  6      |
 
 <!-- Task lists -->
 
