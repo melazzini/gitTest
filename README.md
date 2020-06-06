@@ -1,6 +1,7 @@
-# gitTest
 <!-- math -->
 Hello \f$\frac{a}{\mu}=\int_{a}^{b} f(x)\,dx\f$
+
+<img src="https://render.githubusercontent.com/render/math?math=\frac{a}{\mu}=\int_{a}^{b} f(x)\,dx">
 
 <!-- headings -->
 
